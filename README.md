@@ -8,7 +8,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## My Certificate of Completion 
 
-![](https://github.com/ipiyushsonar/JPMorgan-Chase-Virtual-Internship/blob/master/Annotation%202020-06-17%20171207.jpg)
+![](https://github.com/ipiyushsonar/JPMorgan-Chase-Virtual-Internship/blob/master/Annotation_2020-06-17_171207.jpg)
 
 ## For any queries/doubts:
 
